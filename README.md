@@ -16,3 +16,5 @@ The repository contains two application of DC-GAN:
 
 ![Generate Cars from Cifar10](cifar10_cars_epoch100.png?raw=true "Results after 100 epochs")
 
+![Generate Cars from Cifar10](dcgan_cifar10_cars.gif?raw=true "200 epochs")
+
