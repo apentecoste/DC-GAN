@@ -13,3 +13,6 @@ The repository contains two application of DC-GAN:
 1) Generation of digits imagesfrom MNIST dataset
 
 2) Generation of car images from CIFAR10 dataset
+
+![Generate Cars from Cifar10](cifar10_cars_epoch100.png?raw=true "Results after 100 epochs")
+
