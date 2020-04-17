@@ -18,9 +18,9 @@ The repository contains two application of DC-GAN:
 
 2) Generation of car images from CIFAR10 dataset
 
-![Generate Cars from Cifar10](cifar10_cars_epoch100.png?raw=true "Results after 100 epochs")
+![Generate Cars from Cifar10](images&gifs/cifar10_cars_epoch100.png?raw=true "Results after 100 epochs")
 
-![Generate Cars from Cifar10](dcgan_cifar10_cars.gif?raw=true "200 epochs")
+![Generate Cars from Cifar10](images&gifs/dcgan_cifar10_cars.gif?raw=true "200 epochs")
 
 
 We recommend to use a GPU to run the models if you don't want the training to take forever
