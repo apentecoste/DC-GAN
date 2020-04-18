@@ -19,13 +19,13 @@ pip install -r requirements.txt
 
 <p align="center">
    
-  <img src="images&gifs/mnist_epoch_200.png" width="600">
+  <img src="images&gifs/mnist_epoch_200.png" width="300">
   <p align="center"> Results after 20 epochs  </p>
 </p>
 
 
 <p align="center">
-  <img src="images&gifs/mnist.gif" width="600">
+  <img src="images&gifs/mnist.gif" width="300">
   <p align="center"> 20 epochs training  </p>
 </p>
 
