@@ -11,9 +11,6 @@ Article: [article](https://www.google.com)
 ```
 pip install -r requirements.txt
 ```
-<p align="center">
-  <img src="images&gifs/cifar10_cars_epoch100.png" width="600">
-</p>
 
 
 ## The repository contains two application of DC-GAN:
@@ -36,8 +33,6 @@ pip install -r requirements.txt
 </p>
 
 
-
-<span style="display:block;text-align:center">![Generate Cars from Cifar10](images&gifs/cifar10_cars_epoch100.png?raw=true "Results after 100 epochs")</span>
 
 
 
