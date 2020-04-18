@@ -2,7 +2,7 @@
 
 ## Code to present an application of Deep Convolutional Generative Adversarial Networks for a Medium Article
 
-Article and code are meant for educationnal purposes and provide a hands-on application to someone that wants to discover GANs that has a basic understanding of Convolutionnal Neural Network.
+Article and code were written with an educationnal purposes, to provide a hands-on application to someone that wants to discover GANs and that has a basic understanding of Convolutionnal Neural Network.
 
 
 Article: [article](https://www.google.com)
@@ -48,7 +48,6 @@ pip install -r requirements.txt
 
 
 
-
-
-
 We recommend to use a GPU to run the models if you don't want the training to take forever
+
+Arthur Pentecoste & Paul-Emile Gras
