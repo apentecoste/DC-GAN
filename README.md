@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 <p align="center">
    
-  <img src="images&gifs/cifar10_cars_epoch100_higher_resolution.png" width="300">
+  <img src="images&gifs/cifar10_cars_epoch100_4by4.png" width="300">
   <p align="center"> Results after 100 epochs  </p>
 </p>
 
