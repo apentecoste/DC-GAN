@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-  <img src="images&gifs/dcgan_cifar10_cars.gif" width="600">
+  <img src="images&gifs/dcgan_cifar10_cars_short.gif" width="600">
   <p align="center"> 200 epochs training  </p>
 </p>
 
