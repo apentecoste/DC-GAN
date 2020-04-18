@@ -17,12 +17,26 @@ pip install -r requirements.txt
 
 1) Generation of digits imagesfrom MNIST dataset
 
+<p align="center">
+   
+  <img src="images&gifs/mnist_epoch_200.png" width="600">
+  <p align="center"> Results after 20 epochs  </p>
+</p>
+
+
+<p align="center">
+  <img src="images&gifs/mnist.gif" width="600">
+  <p align="center"> 20 epochs training  </p>
+</p>
+
+
+
 2) Generation of car images from CIFAR10 dataset
 
 
 <p align="center">
    
-  <img src="images&gifs/cifar10_cars_epoch100.png" width="600">
+  <img src="images&gifs/cifar10_cars_epoch100_higher_resolution.png" width="600">
   <p align="center"> Results after 100 epochs  </p>
 </p>
 
