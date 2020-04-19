@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## The repository contains two application of DC-GAN:
 
-1) Generation of digits imagesfrom MNIST dataset
+1) Generation of digits images from MNIST dataset
 
 <p align="center">
    
