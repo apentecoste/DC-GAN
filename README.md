@@ -3,7 +3,7 @@
 Code to present an application of Deep Convolutional Generative Adversarial Networks for a Medium Article.
 
 
-These article and code were written with an educationnal purpose, to provide a hands-on application to someone that wants to discover GANs and that has a basic understanding of Convolutionnal Neural Network.
+Article and code were written with an educationnal purpose, to provide a hands-on application to someone that wants to discover GANs and that has a basic understanding of Convolutionnal Neural Network.
 
 
 Article: [How to generate realistic pictures with Deep Convolutional GANs?](https://medium.com/dc-gan/how-to-build-deep-gans-to-generate-pictures-328beb40c14)
